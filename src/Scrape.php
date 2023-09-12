@@ -2,12 +2,17 @@
 
 namespace App;
 
+use GuzzleHttp\Exception\GuzzleException;
+
 require 'vendor/autoload.php';
 
 class Scrape
 {
     private array $products = [];
 
+    /**
+     * @throws GuzzleException
+     */
     public function run(): void
     {
         $document = ScrapeHelper::fetchDocument('https://www.magpiehq.com/developer-challenge/smartphones');
