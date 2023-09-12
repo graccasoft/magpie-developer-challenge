@@ -40,8 +40,8 @@
         "colour": "Sky Blue",
         "availabilityText": "In Stock Online",
         "isAvailable": true,
-        "shippingText": "Delivery by 8 Jul 2022",
-        "shippingDate": "2022-07-08"
+        "shippingText": "Delivery by 13 Sep 2023",
+        "shippingDate": "2023-09-13"
     },
     {
         "title": "Samsung Galaxy S20",
@@ -51,8 +51,8 @@
         "colour": "Grey",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Available on 14 Jul 2022",
-        "shippingDate": "2022-07-14"
+        "shippingText": "Available on 19 Sep 2023",
+        "shippingDate": "2023-09-19"
     },
     {
         "title": "Huawei P30 Pro",
@@ -73,8 +73,8 @@
         "colour": "Orange",
         "availabilityText": "Out of Stock",
         "isAvailable": false,
-        "shippingText": "Delivery from 06 Aug 2022",
-        "shippingDate": "2022-08-06"
+        "shippingText": "Delivery from 12 Oct 2023",
+        "shippingDate": "2023-10-12"
     },
     {
         "title": "Nokia 3310",
@@ -84,8 +84,8 @@
         "colour": "Yellow",
         "availabilityText": "Out of Stock",
         "isAvailable": false,
-        "shippingText": "Delivery from 06 Aug 2022",
-        "shippingDate": "2022-08-06"
+        "shippingText": "Delivery from 12 Oct 2023",
+        "shippingDate": "2023-10-12"
     },
     {
         "title": "Nokia 3310",
@@ -95,8 +95,8 @@
         "colour": "Grey",
         "availabilityText": "Out of Stock",
         "isAvailable": false,
-        "shippingText": "Delivery from 06 Aug 2022",
-        "shippingDate": "2022-08-06"
+        "shippingText": "Delivery from 12 Oct 2023",
+        "shippingDate": "2023-10-12"
     },
     {
         "title": "Nokia 3310",
@@ -106,8 +106,8 @@
         "colour": "Blue",
         "availabilityText": "Out of Stock",
         "isAvailable": false,
-        "shippingText": "Delivery from 06 Aug 2022",
-        "shippingDate": "2022-08-06"
+        "shippingText": "Delivery from 12 Oct 2023",
+        "shippingDate": "2023-10-12"
     },
     {
         "title": "Google Pixel 5",
@@ -117,8 +117,8 @@
         "colour": "Black",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Delivers 07 Jul 2022",
-        "shippingDate": "2022-07-07"
+        "shippingText": "Delivers 12 Sep 2023",
+        "shippingDate": "2023-09-12"
     },
     {
         "title": "Sony Xperia 10",
@@ -150,8 +150,8 @@
         "colour": "Black",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Free Delivery 2022-07-08",
-        "shippingDate": "2022-07-08"
+        "shippingText": "Free Delivery 2023-09-13",
+        "shippingDate": "2023-09-13"
     },
     {
         "title": "Oppo Reno4 Pro 5G",
@@ -173,7 +173,7 @@
         "availabilityText": "In Stock",
         "isAvailable": true,
         "shippingText": "Free Delivery tomorrow",
-        "shippingDate": "2022-07-08"
+        "shippingDate": "2023-09-13"
     },
     {
         "title": "Google Pixel 4",
@@ -183,8 +183,8 @@
         "colour": "Black",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Delivers 07 Jul 2022",
-        "shippingDate": "2022-07-07"
+        "shippingText": "Delivers 2023-09-12",
+        "shippingDate": "2023-09-12"
     },
     {
         "title": "Google Pixel 4",
@@ -194,8 +194,8 @@
         "colour": "White",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Delivers 07 Jul 2022",
-        "shippingDate": "2022-07-07"
+        "shippingText": "Delivers 2023-09-12",
+        "shippingDate": "2023-09-12"
     },
     {
         "title": "LG K42",
@@ -205,8 +205,8 @@
         "colour": "Black",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Order within 6 hours and have it 09 Jul 2022",
-        "shippingDate": "2022-07-09"
+        "shippingText": "Order within 6 hours and have it Thursday 14th Sep 2023",
+        "shippingDate": "2023-09-14"
     },
     {
         "title": "Samsung Galaxy S20",
@@ -216,7 +216,7 @@
         "colour": "Grey",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Free Delivery Friday 8th Jul 2022",
-        "shippingDate": "2022-07-08"
+        "shippingText": "Free Delivery 2023-09-13",
+        "shippingDate": "2023-09-13"
     }
 ]
