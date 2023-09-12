@@ -2,16 +2,11 @@
 
 namespace App;
 
-use Symfony\Component\CssSelector\CssSelectorConverter;
-use Symfony\Component\DomCrawler\Crawler;
-
 require 'vendor/autoload.php';
 
 class Scrape
 {
     private array $products = [];
-
-
 
     public function run(): void
     {
